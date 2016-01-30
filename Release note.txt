@@ -1,0 +1,4 @@
+Pour changer la vitesse du metronome, aller dans la classe metronome et changer Time Step.
+
+Les Arrow/Split/Convoyeur/Target/Spawner ont des propriétées pour indiquer leur direction (Independant de l'orientation de l'asset)
+Le nombre de cube généré par les spawners est parametrable.
