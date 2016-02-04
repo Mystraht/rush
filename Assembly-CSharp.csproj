@@ -6,7 +6,7 @@
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
 	<RootNamespace></RootNamespace>
-	<ProjectGuid>{7C9AA6CF-E977-B032-A7C7-F12838958496}</ProjectGuid>
+	<ProjectGuid>{B7854D24-54E6-F283-F267-60F92A2929BE}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<AssemblyName>Assembly-CSharp</AssemblyName>
@@ -59,6 +59,7 @@
      <Compile Include="Assets\Scripts\Game\Comportements\Teleporter.cs" />
      <Compile Include="Assets\Scripts\Game\EventManager.cs" />
      <Compile Include="Assets\Scripts\Game\GameManager.cs" />
+     <Compile Include="Assets\Scripts\Game\MenuManager.cs" />
      <Compile Include="Assets\Scripts\Game\Singletons\Metronome.cs" />
      <Compile Include="Assets\Scripts\Game\Singletons\Utils.cs" />
      <Compile Include="Assets\Scripts\MusicLoopsManager.cs" />
@@ -74,10 +75,10 @@
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="TPMath">
- <HintPath>D:/Dropbox/Dropbox/SVN perso/201512111105_Alpha/Assets/Plugins/TPMath.dll</HintPath>
+ <HintPath>C:/Users/PC-Dorian/Desktop/rush_git/Assets/Plugins/TPMath.dll</HintPath>
  </Reference>
  <Reference Include="Vectrosity">
- <HintPath>D:/Dropbox/Dropbox/SVN perso/201512111105_Alpha/Assets/Plugins/vectrosity/Vectrosity.dll</HintPath>
+ <HintPath>C:/Users/PC-Dorian/Desktop/rush_git/Assets/Plugins/vectrosity/Vectrosity.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>D:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>

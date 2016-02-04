@@ -68,7 +68,7 @@ public class SatelliteCamera : MonoBehaviour {
 		Vector3 newPos = target.position+dirH*distance*Mathf.Cos(elevation)+Vector3.up*distance*Mathf.Sin(elevation);
 		transform.position = newPos;//Vector3.Lerp(transform.position,newPos,Time.deltaTime*kLerpPos);
 		transform.LookAt(target);
-	}
+    }
 
 	void OnGUI()
 	{
